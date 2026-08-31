@@ -1,0 +1,5 @@
+{"timestamp":"2024-06-12T08:00:05Z","event_type":"network_connection","severity":"info","src_ip":"10.0.1.42","dst_ip":"10.0.0.10","username":"alice","application":"web","message":"GET / 200"}
+{"timestamp":"2024-06-12T08:05:00Z","event_type":"authentication_failure","severity":"medium","src_ip":"203.0.113.10","username":"root","application":"ssh","message":"failed login attempt"}
+{"timestamp":"2024-06-12T08:10:10Z","event_type":"port_scan","severity":"medium","src_ip":"198.51.100.7","dst_ip":"10.0.0.10","message":"port scan detected on host"}
+{"timestamp":"2024-06-12T08:16:30Z","event_type":"traffic_anomaly","severity":"medium","src_ip":"203.0.113.77","dst_ip":"10.0.0.10","message":"abnormal outbound traffic burst"}
+{"timestamp":"2024-06-12T08:20:55Z","event_type":"process_activity","severity":"low","src_ip":"10.0.1.42","device":"hr-001","process_name":"cmd.exe","message":"process execution recorded"}

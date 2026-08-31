@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.db
+*.sqlite
+*.sqlite3
+.pytest_cache/
+.env
+
+# Node
+node_modules/
+frontend/dist/
+.vite/
+
+# Misc
+.DS_Store
+*.log
+.coverage
