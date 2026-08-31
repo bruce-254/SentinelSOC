@@ -86,7 +86,7 @@ backend/                 FastAPI application
 frontend/                React + Vite SOC-style UI (dark mode)
 data/samples/            realistic sample security logs
 docs/                    architecture & operations guides
-.github/workflows/ci.yml CI
+ci/ci.yml                GitHub Actions workflow (move to .github/workflows/ to activate)
 docker-compose.yml       PostgreSQL + API + UI
 ```
 
