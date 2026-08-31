@@ -1,0 +1,6 @@
+2024-06-12T08:00:10Z,authentication_failure,low,svc_batch,192.0.2.44,10.0.0.5,Bad credentials for svc_batch
+2024-06-12T08:02:33Z,network_connection,info,alice,10.0.1.42,10.0.0.10,VPN connection established
+2024-06-12T08:04:00Z,authentication_success,info,bob,10.0.1.50,10.0.0.10,Login successful
+2024-06-12T08:13:40Z,firewall_deny,medium,unknown,198.51.100.99,10.0.0.10,Blocked inbound connection
+2024-06-12T08:19:02Z,config_change,low,admin,10.0.1.200,dc01,Firewall policy updated
+2024-06-12T08:21:11Z,malware_activity,high,unknown,203.0.113.15,10.0.0.10,Matching signature detected
